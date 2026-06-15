@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Chính Sách Bảo Mật - Bot Mây</title>
+</head>
+<body>
+    <h1>Chính Sách Bảo Mật</h1>
+
+    <p>Cập nhật lần cuối: 15/06/2026</p>
+
+    <h2>1. Dữ liệu được thu thập</h2>
+    <p>Bot Mây có thể thu thập và xử lý một số dữ liệu cần thiết để hoạt động, bao gồm:</p>
+    <ul>
+        <li>ID người dùng Discord.</li>
+        <li>Tên hiển thị và biệt danh Discord.</li>
+        <li>ID máy chủ (Server ID).</li>
+        <li>Tên máy chủ.</li>
+        <li>ID kênh và ID vai trò.</li>
+        <li>Dữ liệu cấu hình bot được quản trị viên thiết lập.</li>
+    </ul>
+
+    <h2>2. Mục đích sử dụng dữ liệu</h2>
+    <p>Dữ liệu được sử dụng để:</p>
+    <ul>
+        <li>Cung cấp các chức năng của bot.</li>
+        <li>Lưu cấu hình máy chủ.</li>
+        <li>Quản lý ticket, phòng thoại tạm thời và các tính năng quản trị.</li>
+        <li>Khắc phục lỗi và cải thiện dịch vụ.</li>
+    </ul>
+
+    <h2>3. Chia sẻ dữ liệu</h2>
+    <p>Bot Mây không bán, trao đổi hoặc chia sẻ dữ liệu người dùng cho bên thứ ba, trừ khi có yêu cầu từ cơ quan có thẩm quyền theo quy định pháp luật.</p>
+
+    <h2>4. Lưu trữ dữ liệu</h2>
+    <p>Dữ liệu được lưu trữ trên hệ thống của bot và chỉ được giữ trong thời gian cần thiết để cung cấp dịch vụ.</p>
+
+    <h2>5. Quyền của người dùng</h2>
+    <p>Người dùng có thể yêu cầu xem, chỉnh sửa hoặc xóa dữ liệu liên quan đến mình bằng cách liên hệ với quản trị viên bot.</p>
+
+    <h2>6. Liên hệ</h2>
+    <p>Mọi thắc mắc về quyền riêng tư hoặc yêu cầu liên quan đến dữ liệu cá nhân vui lòng liên hệ:</p>
+    <p>Email: yuu.nega@gmail.com</p>
+
+    <h2>7. Thay đổi chính sách</h2>
+    <p>Chính sách này có thể được cập nhật bất kỳ lúc nào. Việc tiếp tục sử dụng bot đồng nghĩa với việc bạn chấp nhận các thay đổi mới nhất.</p>
+
+</body>
+</html>
