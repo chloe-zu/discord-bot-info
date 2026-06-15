@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Điều Khoản Dịch Vụ - Bot Mây</title>
+</head>
+<body>
+    <h1>Điều Khoản Dịch Vụ</h1>
+
+    <p>Khi thêm hoặc sử dụng Bot Mây, bạn đồng ý với các điều khoản sau:</p>
+
+    <ul>
+        <li>Bot có thể truy cập thông tin cần thiết từ Discord để thực hiện các chức năng được cung cấp.</li>
+        <li>Người dùng chịu trách nhiệm cho mọi hành động được thực hiện thông qua bot trên máy chủ của mình.</li>
+        <li>Không sử dụng bot cho các hoạt động vi phạm Điều Khoản Dịch Vụ của Discord hoặc pháp luật hiện hành.</li>
+        <li>Quản trị viên bot có quyền bảo trì, thay đổi hoặc ngừng cung cấp dịch vụ mà không cần báo trước.</li>
+    </ul>
+
+    <h2>Giới hạn trách nhiệm</h2>
+    <p>Bot được cung cấp "nguyên trạng" và không đảm bảo hoạt động liên tục hoặc không có lỗi.</p>
+
+    <h2>Liên hệ</h2>
+    <p>Email hỗ trợ: yuu.nega@gmail.com</p>
+
+</body>
+</html>
